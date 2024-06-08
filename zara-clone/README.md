@@ -32,6 +32,9 @@ This project is a clone of an e-commerce platform with basic functionalities inc
 
   3. Install the dependencies:
 
+  4. run the server
+      json-server --watch db.json
+
 # npm install
     Project Structure
     Zara-clone/

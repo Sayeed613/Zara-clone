@@ -23,7 +23,7 @@ export default function Navbar() {
       alignItems={{ base: "center", md: "stretch" }}
     >
       <Flex flexDirection={"column"} alignItems={{ base: "center", md: "flex-start" }}>
-        <Image src="../../public/Standard.png" h={"80px"} w={"180px"} onClick={() =>{
+        <Image src="https://cdn.cookielaw.org/logos/5435e8e3-1f77-4efd-bb7e-591b5a6e876e/d7899571-c1e4-4d71-8e87-09246e838e5d/d5b1d450-62b7-4f62-94ba-f9835c6495ed/Standard.png" h={"80px"} w={"180px"} onClick={() =>{
           {logout}
           navigate("/login")
         }}  cursor={"pointer"} />
